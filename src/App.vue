@@ -11,8 +11,8 @@ import SalaryCalc from './components/tools/SalaryCalc.vue'
     <RouterLink to="/calculadora-salarial">Calculadora salarial</RouterLink>
   </nav>
   <main>
-    <RouterView />
-    <!-- <SalaryCalc /> -->
+    <!-- <RouterView /> -->
+    <SalaryCalc />
   </main>
 </template>
 
